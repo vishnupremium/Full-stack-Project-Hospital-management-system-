@@ -1,9 +1,6 @@
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
-
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
 ## Need to work on:
 
 1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
